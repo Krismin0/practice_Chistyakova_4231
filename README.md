@@ -32,13 +32,15 @@
 Откройте терминал или командную строку в папке с проектом и выполните:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### 3. Запуск
 Запустите файл `main.py`:
 
 ```bash
-python main.py```
+python main.py
+```
 
 ### 3.Структура проекта
 
